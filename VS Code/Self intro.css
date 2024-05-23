@@ -1,0 +1,90 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(62, 59, 59);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #5c1370;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #5c1370;
+    color: white;
+  }
+  .topnav a.split {
+    float: right;
+    color: white;
+  }
+  .Intro{
+    background-color: #e1bcec;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 2rem;
+  }
+  .Intro:hover {
+    background-color: #cfa7dc;
+  }
+  .table{
+    background-color: #e1bcec;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 2rem;
+  }
+  .table:hover{
+    background-color: #cfa7dc;
+  }
+  .lan{
+    background-color: #e1bcec;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem 2rem;
+  }
+  .lan:hover{
+    background-color: #cfa7dc;
+  }
+  
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  h2{
+    background: #b7b0b0;
+    font-style:normal;
+  }
+  h2:hover {
+    background-color:#cfa7dc;
+  }
+  p{
+    font-size: 22px;
+    text-align: justify;
+  }
+  table{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width:50%;
+   
+  }
+  
+  th {
+    background-color:  #5c1370;;
+    color: white;
+  }
+  ol{
+    font-size: 22px;
+  }
